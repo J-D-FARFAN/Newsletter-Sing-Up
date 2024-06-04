@@ -97,6 +97,7 @@ body{
                     position: relative;
                     display: flex;
                     align-items: center;
+                    .iconList{margin-right: 1rem;}
                 }
             }
 
@@ -193,7 +194,7 @@ body{
     .offerin{
         font-size: 15.5px !important;
         .iconList{
-            margin-right: 1rem;
+            margin-right: 1rem !important;
         }
     }
 
